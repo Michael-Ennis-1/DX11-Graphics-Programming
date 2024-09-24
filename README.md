@@ -23,6 +23,10 @@ The primary techniques demonstrated are:
 
 ![image](https://user-images.githubusercontent.com/78039370/213821440-fb325804-a647-4da5-801b-4cd64b5d793f.png)
 
+## Controls
+WASD move forward, backwards left and right.
+QE   move up/down.
+
 ## Links
 Link to the EXE: https://drive.google.com/drive/folders/15Df9Qgj5DJfPIyg2SuL55Ld3-C15ebtz?usp=share_link
 
