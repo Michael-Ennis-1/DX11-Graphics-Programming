@@ -1,7 +1,6 @@
 # DX11-Graphics-Programming
 
-This is a demonstration of my small graphics scene for the CMP301 Graphics Programming module, using C++, DirectX11 and HLSL. This showcases a Tessellated Displacement Map, with mathematically calculated Lighting Normals (Both per-vertex and per-pixel). T
-This is my CMP301 Graphics Programming module, using C++ DirectX11.
+This is a demonstration of my small graphics scene for the CMP301 Graphics Programming module, using C++, DirectX11 and HLSL. This showcases a Tessellated Displacement Map, with mathematically calculated Lighting Normals (Both per-vertex and per-pixel).
 
 ![image](https://user-images.githubusercontent.com/78039370/213821361-5cc9ca1d-2474-49ad-87a4-ff8caa419cc6.png)
 
