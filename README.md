@@ -15,6 +15,12 @@ The primary techniques demonstrated are:
 - Mathematically Calculated Lighting Normals
   - Per Vertex calculations by crossing the resulting vectors of the positions of the nearby vertices.
   - Per Pixel calculations can be toggled instead, resulting in better fidelity when viewed from a distance but very noticeable up close. Known as "Bump Mapping".
+- Mathematically Calculated Lights
+  - Including Directional, Spot and Point lights respectively.
+- Shadow Maps that calculate dynamically based on the position of the point or spot light or direction of directional light.
+  - Multiple shadows can be calculated from one object.  
+- Depth of Field Post Process Effect
+  - 
 These are demonstrated through the use of a Directional, Spot and Point light respectively. The Spot and Directional light cast Shadows onto the Displacement Map. There is a Depth of Field post process that can be toggled too, to effectively showcase rendering the screen to a texture and manipulating it dynamically. 
 
 ## Links
