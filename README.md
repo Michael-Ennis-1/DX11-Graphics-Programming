@@ -13,7 +13,7 @@ The primary techniques demonstrated are:
   - Each vertex of the mountain determines their height based on how bright a pixel is on the displacement map.
 - Mathematically Calculated Lighting Normals
   - Per Vertex calculations by crossing the resulting vectors of the positions of the nearby vertices.
-  - Per Pixel calculations can be toggled instead, resulting in better fidelity when viewed from a distance but very noticeable up close. Known as "Bump Mapping".
+  - Per Pixel calculations can be toggled instead, resulting in better fidelity when viewed from a distance but very noticeable up close.
 - Mathematically Calculated Lights
   - Including Directional, Spot and Point lights respectively.
 - Shadow Maps that calculate dynamically based on the position of the point or spot light or direction of directional light.
