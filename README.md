@@ -20,11 +20,11 @@ The primary techniques demonstrated are:
 - Shadow Maps that calculate dynamically based on the position of the point or spot light or direction of directional light.
   - Multiple shadows can be calculated from one object.  
 - Depth of Field Post Process Effect
-  - 
-These are demonstrated through the use of a Directional, Spot and Point light respectively. The Spot and Directional light cast Shadows onto the Displacement Map. There is a Depth of Field post process that can be toggled too, to effectively showcase rendering the screen to a texture and manipulating it dynamically. 
+  - Blurs pixels too close or far from the focal point.
+
+![image](https://user-images.githubusercontent.com/78039370/213821440-fb325804-a647-4da5-801b-4cd64b5d793f.png)
 
 ## Links
 Link to the EXE: https://drive.google.com/drive/folders/15Df9Qgj5DJfPIyg2SuL55Ld3-C15ebtz?usp=share_link
-![image](https://user-images.githubusercontent.com/78039370/213821440-fb325804-a647-4da5-801b-4cd64b5d793f.png)
 
 
