@@ -6,6 +6,15 @@ This is my CMP301 Graphics Programming module, using C++ DirectX11.
 ![image](https://user-images.githubusercontent.com/78039370/213821361-5cc9ca1d-2474-49ad-87a4-ff8caa419cc6.png)
 
 ## Techniques Demonstracted
+The primary techniques demonstrated are:
+- Tessellation through a slider
+  - Breaking down geometry into more or less triangles to increase graphical fidelity at a performance cost, or decrease graphical fidelity for a performance gain.
+  - Primarily used to decrease geometry when being viewed from a distance, as the graphical fidelity difference will be less noticeable from a difference.
+- Displacement Map
+  - Each vertex of the mountain determines their height based on how bright a pixel is on the displacement map.
+- Mathematically Calculated Lighting Normals
+  - Per Vertex calculations by crossing the resulting vectors of the positions of the nearby vertices.
+  - Per Pixel calculations can be toggled instead, resulting in better fidelity when viewed from a distance but very noticeable up close. Known as "Bump Mapping".
 These are demonstrated through the use of a Directional, Spot and Point light respectively. The Spot and Directional light cast Shadows onto the Displacement Map. There is a Depth of Field post process that can be toggled too, to effectively showcase rendering the screen to a texture and manipulating it dynamically. 
 
 ## Links
